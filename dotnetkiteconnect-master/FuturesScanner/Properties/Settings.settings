@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FuturesScanner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MyPublicToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6d48e39ca68c975685b6968ef6720958</Value>
+    </Setting>
+    <Setting Name="MyAccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">icak2z2teo8anig653nhfz3uz2qsvzxk</Value>
+    </Setting>
+    <Setting Name="MyPublicTokenGenTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MyAccessTokenGenTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

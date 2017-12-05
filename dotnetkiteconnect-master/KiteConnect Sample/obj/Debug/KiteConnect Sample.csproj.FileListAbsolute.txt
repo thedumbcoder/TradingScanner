@@ -1,0 +1,10 @@
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\bin\Debug\KiteConnectSample.exe.config
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\bin\Debug\KiteConnectSample.exe
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\bin\Debug\KiteConnectSample.pdb
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\bin\Debug\KiteConnect.dll
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\bin\Debug\KiteConnect.pdb
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\bin\Debug\KiteConnect.xml
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\obj\Debug\KiteConnect Sample.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\obj\Debug\KiteConnect Sample.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\obj\Debug\KiteConnectSample.exe
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect Sample\obj\Debug\KiteConnectSample.pdb

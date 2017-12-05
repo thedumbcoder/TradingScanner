@@ -1,0 +1,16 @@
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\InputData\Longs.csv
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\InputData\Shorts.csv
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\FuturesScanner.exe.config
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\FuturesScanner.exe
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\FuturesScanner.pdb
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\KiteConnect.dll
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\KiteConnect.pdb
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\bin\Debug\KiteConnect.xml
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.Form_FuturesScanner.resources
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.FormEnterToken.resources
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.Properties.Resources.resources
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.csproj.GenerateResource.Cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.exe
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\FuturesScanner\obj\Debug\FuturesScanner.pdb

@@ -1,0 +1,7 @@
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\bin\Release\KiteConnect.xml
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\bin\Release\KiteConnect.dll
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\bin\Release\KiteConnect.pdb
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\obj\Release\KiteConnect.csprojResolveAssemblyReference.cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\obj\Release\KiteConnect.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\obj\Release\KiteConnect.dll
+C:\Users\abhishek.dutta\Documents\JHINGU END\dotnetkiteconnect-master\dotnetkiteconnect-master\KiteConnect\obj\Release\KiteConnect.pdb
